@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_transactions"
+        android:title="Giao Dịch"
+        android:icon="@drawable/ic_transaction"/>
+    <item
+        android:id="@+id/nav_statistics"
+        android:title="Thống Kê"
+        android:icon="@drawable/ic_chart"/>
+    <item
+        android:id="@+id/nav_budget"
+        android:title="Ngân Sách"
+        android:icon="@drawable/ic_budget"/>
+</menu>
